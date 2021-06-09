@@ -189,7 +189,7 @@ Win: spjson.py
 
 Creating JSON output on spider.js...
 How many nodes? 30
-Open force.html in a browser to view the visualization
+Open force.html in a browser to view the visualization(start open force.html in windows)
 
 
 You can view this data by opening the file force.html in your web browser.
